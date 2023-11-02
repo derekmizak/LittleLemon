@@ -46,3 +46,9 @@ venv/
 
 # environement variables
 .env
+
+**/static/
+*/static/*
+**/staticfiles/
+
+
