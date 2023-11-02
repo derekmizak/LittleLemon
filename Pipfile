@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+Django = "~=4.2.0"
+django-cors-headers = "==4.3.0"
+django-templated-mail = "==1.1.1"
+djangorestframework = "~=3.14.0"
+djangorestframework-simplejwt = "~=5.3.0"
+djangorestframework-xml = "*"
+djangorestframework-csv = "*"
+djangorestframework-yaml = "*"
+django-filter = "*"
+bleach = "*"
+python-dotenv = "*"
+djoser = "==2.2.0"
+mysqlclient = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

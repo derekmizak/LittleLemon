@@ -1,0 +1,48 @@
+# OS files
+.DS_Store
+
+# Python and Django files
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+*.egg
+*.pyd
+*.pyc
+*.pyo
+*.pyz
+*.pyzw
+
+# Database files
+*.sqlite3
+*.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Compiled files
+*.pyc
+*.pyo
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.log
+*.bak
+*.cache
+*.egg-info
+*.eggs
+*.egg
+*.pyc
+*.pyo
+*.pyz
+*.pyzw
+
+# Virtual environement files
+venv/
+
+# environement variables
+.env
